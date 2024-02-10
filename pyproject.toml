@@ -41,7 +41,7 @@ dynamic = ["version"]
 
 [project.urls]
 "Homepage" = "https://github.com/FlipperPA/django-tempus-dominus"
-"Repository" = "https://github.com/FlipperPA/django-tempus-dominus"
+"Repository" = "https://github.comjahirpc/tempus"
 "Documentation" = "https://github.com/FlipperPA/django-tempus-dominus"
 
 [tool.pytest.ini_options]
